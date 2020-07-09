@@ -9,6 +9,11 @@ int main()
 {
     int a,b;
     cin>>a>>b;
-    cout<<"Sum is: "<<sum(a,b)<<endl;
+
+  
+
+    int _sum = sum(a,b);
+    cout<<"Sum is: "<<_sum<<endl;
+
     return 0;
 }
