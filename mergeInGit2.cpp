@@ -2,11 +2,9 @@
 using namespace std;
 
 void reverse_name(string name){
-
     if(name.size() == 0) return ;
     cout<<name[name.size()-1];
     reverse_name(name.erase(name.size()-1));
-
 }
 
 int main(){
@@ -18,3 +16,4 @@ int main(){
     cout<<endl;
     return 0;
 }
+
