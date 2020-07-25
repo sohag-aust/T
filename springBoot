@@ -2,7 +2,7 @@
 using namespace std;
 
 int sum(int a, int b){
-    hehe hoho
+    hehe hoho lala lala
 }
 
 int main()
