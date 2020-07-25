@@ -2,7 +2,7 @@
 using namespace std;
 
 int sum(int a, int b){
-    python django
+    Elixir is a functional, concurrent, general-purpose programming language
 }
 
 int main()
