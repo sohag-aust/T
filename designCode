@@ -9,6 +9,6 @@ int main()
 {
     int a,b;
     cin>>a>>b;
-    cout<<"Sum is: "<<sum(a,b)<<endl;
+    angularJS
     return 0;
 }
