@@ -10,7 +10,7 @@ int main()
     int a,b;
     cin>>a>>b;
 
-    abc
+    TypeScript
 
     return 0;
 }
