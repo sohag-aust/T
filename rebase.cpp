@@ -4,6 +4,6 @@ using namespace std;
 int main(){
     int a,b;
     cin>>a>>b;
-    asdafscsfscsscs
+    ksfDSVLKjdkkvgdhvgdhhyg
     return 0;
 }
