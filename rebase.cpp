@@ -4,7 +4,6 @@ using namespace std;
 int main(){
     int a,b;
     cin>>a>>b;
-    if(a>b) b = a, a = b;
-    cout<<a<<", + < > "<<b<<endl;
+    asdafscsfscsscs
     return 0;
 }
