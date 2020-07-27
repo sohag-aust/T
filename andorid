@@ -10,7 +10,7 @@ int main()
     int a,b;
     cin>>a>>b;
 
-    aksjaba
+    android in feature/android branch
 
     return 0;
 }
